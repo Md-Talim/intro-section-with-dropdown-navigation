@@ -42,8 +42,8 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Intro section with dropdown navigation (React + Tailwind + Dark mode) (React + SASS) | Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-introduction-page-for-remote-work-agency-react-tailwind-CS7ZPtPzq1)
-- Live Site URL: [https://intro-section-with-dropdown-navigation-hdez.vercel.app/](https://md-talim.github.io/intro-section-with-dropdown-navigation/) 
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-introduction-page-for-remote-work-agency-react-tailwind-CS7ZPtPzq1](https://www.frontendmentor.io/solutions/responsive-introduction-page-for-remote-work-agency-react-tailwind-CS7ZPtPzq1)
+- Live Site URL: [https://md-talim.github.io/intro-section-with-dropdown-navigation](https://md-talim.github.io/intro-section-with-dropdown-navigation/)
 
 <br>
 
