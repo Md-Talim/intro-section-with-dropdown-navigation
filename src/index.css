@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-serif;
+  @apply bg-white;
+  @apply transition;
+  @apply duration-300;
+  @apply ease-out;
+}
