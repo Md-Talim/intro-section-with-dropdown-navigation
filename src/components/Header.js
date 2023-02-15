@@ -14,7 +14,7 @@ function Header() {
   };
 
   return (
-    <header className="relative flex justify-between items-center md:items-start my-6 mx-20 text-gray text-sm font-serif">
+    <header className="relative flex justify-between items-center md:items-start my-6 mx-4 md:mx-20 text-gray text-sm font-serif">
       <div className="flex items-center">
         <img src={logo} alt="logo" className="mr-16 mt-2" />
       </div>
